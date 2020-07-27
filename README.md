@@ -1,2 +1,6 @@
-# TODO App using flutter
-TODO application in flutter
+# TODO App using Flutter
+Basic TODO application using Flutter
+
+```
+flutter run
+```
